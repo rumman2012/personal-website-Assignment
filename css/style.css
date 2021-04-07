@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+section
+{
+
+}
+.half_width
+{
+width:50%;
+float:left;
+margin-top: 100px;
+}
+.half_width h1
+{
+    font-weight: 500;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.half_width h2
+{
+    text-transform: uppercase;
+    color:orange;
+}
+.half_width p
+{
+    font-size: 16px;
+    margin-top: 10px;
+   
+}
+.p1
+{
+    padding:7% 0 0 20%;
+}
+
+.half_width img
+{
+    width:50%;
+}
+.btn
+{
+    display:inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    padding: 15px 25px;
+    background:orangered;
+    border-radius: 5px;
+}
